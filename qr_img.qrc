@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/99b8174da0016e2fe3b7ca8bcb6687ed.jpg</file>
+    <file>img/back.svg</file>
+    <file>img/u=1014860467,4042755468&amp;fm=26&amp;gp=0.png</file>
+    <file>img/search.svg</file>
+    <file>img/pw.png</file>
+    <file>img/user.png</file>
+    <file>img/arrows_circle_left.svg</file>
+    <file>img/arrows_down_double-34.svg</file>
+    <file>img/arrows_button_off.svg</file>
+    <file>img/arrows_button_on.svg</file>
+    <file>img/v2-a6070bd3437565d565f7823712cbb186_720w.jpg</file>
+    <file>img/v2-59b514faac600379b83906e0baabf7a6_720w.jpg</file>
+    <file>img/ece414499b12f26fc1cdc8ccd7e019ea.jpg</file>
+    <file>img/v2-d7c07b297ee18faff52b441423c95080_720w.jpg</file>
+    <file>img/72e13cfaff5836b02aa0b0553584c7c7.jpg</file>
+    <file>img/u=1014860467,4042755468&amp;fm=26&amp;gp=0.jpg</file>
+  </qresource>
+</RCC>
