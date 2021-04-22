@@ -192,13 +192,8 @@ border-image:url(:/img/img/ece414499b12f26fc1cdc8ccd7e019ea.jpg)}
 
 
 if __name__ == '__main__':
-    s1='123ad'
-    s2='345'
-    s3=s1
-    s1+='sa'
-    print(s3)
-    # print(s1.title())
-    # app = QApplication(sys.argv)
-    # win = ZhkuMainWindow()
-    # win.show()
-    # sys.exit(app.exec_())
+
+    app = QApplication(sys.argv)
+    win = ZhkuMainWindow()
+    win.show()
+    sys.exit(app.exec_())
