@@ -31,8 +31,8 @@ class LoginWidget(QWidget, Ui_LoginUi):
                 self.lineEdit_2.setText(inf['user'])
                 self.lineEdit.setText(inf['pw'])
         else:
-            self.lineEdit_2.setText('201810224331')
-            self.lineEdit.setText('yujiecong1')
+            self.lineEdit_2.setText('')
+            self.lineEdit.setText('')
         # 初始化爬虫
         self.spider = zk_spider()
         # 定时器
